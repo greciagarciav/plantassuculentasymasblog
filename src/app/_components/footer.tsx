@@ -27,11 +27,11 @@ export function Footer() {
             </a>
           </div>
         </div>
-        <div className="py-10 flex flex-col items-center">
-          <h3 className="text-2xl font-bold tracking-tighter leading-tight text-center mb-10 lg:mb-0">
+        <div className="py-10 flex flex-col items-center border-t border-gray-200">
+          <h3 className="text-1xl font-bold tracking-tighter leading-tight text-center mb-10 lg:mb-0">
           © 2024 Chica Suculentas - Plantas, suculentas y más. Todos los derechos reservados.
           </h3>
-          <h3 className="py-2 text-2xl font-bold tracking-tighter leading-tight text-center mb-10 lg:mb-0">
+          <h3 className="py-2 text-1xl font-bold tracking-tighter leading-tight text-center mb-10 lg:mb-0">
           Diseño y desarrollo web por greciagarciav
           </h3>
         </div>
