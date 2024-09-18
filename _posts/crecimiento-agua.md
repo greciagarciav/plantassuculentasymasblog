@@ -1,13 +1,13 @@
 ---
-title: "Preview Mode for Static Generation"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/preview/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+title: "Acelera el crecimiento de suculentas usando agua"
+excerpt: "Te comparto el paso a paso que generalmente uso cuando deseo que mis suculentas aceleren su crecimiento. Te lo cuento desde mi experiencia. Espero que también te funcione."
+coverImage: "/assets/blog/crecimiento-agua/cover.jpg"
+date: "2024-09-10T05:35:07.322Z" 
 author:
-  name: Joe Haddad
-  picture: "/assets/blog/authors/joe.jpeg"
+  name: Chica Suculentas
+  picture: "/assets/blog/authors/ChS.png"
 ogImage:
-  url: "/assets/blog/preview/cover.jpg"
+  url: "/assets/blog/crecimiento-agua/cover.jpg"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
