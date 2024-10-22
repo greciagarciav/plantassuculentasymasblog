@@ -2,6 +2,7 @@
 title: "Acelera el crecimiento de tus suculentas"
 excerpt: "El crecimiento de suculentas puede hacerse mediante diferentes técnicas que se han ido descubriendo a través de prueba y error. Aquí te compartiré solo una forma de las que yo he probado y me ha funcionado con mucho éxito."
 coverImage: "/assets/blog/acelerar-crecimiento/cover.jpg"
+coverVideo: '<iframe width="1500" height="800" src="https://www.youtube.com/embed/BaD3PlwYj8M?si=BBl6dYWBhLh8PUv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'
 date: "2024-09-11T05:35:07.322Z"
 author:
   name: Chica Suculentas

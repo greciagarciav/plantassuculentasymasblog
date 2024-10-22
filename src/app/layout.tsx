@@ -61,6 +61,15 @@ export default function RootLayout({
       <body
         className={cn(inter.className, "dark:bg-slate-900 dark:text-slate-400")}
       >
+      <ins className="adsbygoogle"
+          style={{display:"block"}}
+          data-ad-client="ca-pub-4024652646199697"
+          data-ad-slot="4111593915"
+          data-ad-format="auto"
+          data-full-width-responsive="true"></ins>
+      <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
         <ThemeSwitcher />
         <div className="min-h-screen">{children}</div>
         <Footer />
