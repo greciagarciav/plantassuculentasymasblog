@@ -3,13 +3,17 @@ type Props = {
 };
 
 const CoverVideo = ({ videoSrc }: Props) => {
-
-  return (
-    <div
-      className="sm:mx-0"
-      dangerouslySetInnerHTML={{ __html: videoSrc }}
-    />
-  );
-};
+    return (
+        <div className="responsive-video">
+            <iframe 
+                src={videoSrc} 
+                title="YouTube video player" 
+                frameBorder="0" 
+                allow="autoplay; encrypted-media;"
+                allowFullScreen>
+            </iframe>
+        </div>
+    );
+  };
 
 export default CoverVideo;

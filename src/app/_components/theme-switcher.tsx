@@ -92,13 +92,21 @@ const Switch = () => {
   );
 };
 
-const Script = memo(() => (
-  <script
-    dangerouslySetInnerHTML={{
-      __html: `(${NoFOUCScript.toString()})('${STORAGE_KEY}')`,
-    }}
-  />
-));
+const Script = memo(() => {
+  useEffect(() => {
+    const scriptContent = `(${NoFOUCScript.toString()})('${STORAGE_KEY}')`;
+    const script = document.createElement("script");
+    script.textContent = scriptContent;
+    document.body.appendChild(script);
+
+    return () => {
+      // Removemos el script sin retornar ningún valor
+      document.body.removeChild(script);
+    };
+  }, []);
+
+  return null;
+});
 
 /**
  * This component wich applies classes and transitions.
