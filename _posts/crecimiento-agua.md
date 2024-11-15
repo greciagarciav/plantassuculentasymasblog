@@ -2,6 +2,7 @@
 title: "Acelera el crecimiento de suculentas usando agua"
 excerpt: "Te comparto el paso a paso que generalmente uso cuando deseo que mis suculentas aceleren su crecimiento. Te lo cuento desde mi experiencia. Espero que también te funcione."
 coverImage: "/assets/blog/crecimiento-agua/cover.jpg"
+coverVideo: "https://www.youtube.com/embed/oEFeKwMUKlU?si=-arvhtlsbwJeuFTh"
 date: "2024-09-10T05:35:07.322Z" 
 author:
   name: Chica Suculentas

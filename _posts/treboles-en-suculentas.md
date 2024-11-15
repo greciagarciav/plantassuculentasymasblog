@@ -2,6 +2,7 @@
 title: "Tréboles en mis suculentas. ¿Qué hago?"
 excerpt: "Los tréboles suelen aparecer como malas hierbas en las macetas de suculentas, compitiendo por nutrientes y agua. Te comparto mi experiencia en esta situación tan nueva para mi que seguro puede serte de ayuda."
 coverImage: "/assets/blog/treboles-en-suculentas/cover.jpg"
+coverVideo: "https://www.youtube.com/embed/os2VM3VP8Aw?si=ANYrJuardq63vmo-"
 date: "2024-09-11T05:35:07.322Z"
 author:
   name: Chica Suculentas
