@@ -4,6 +4,9 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import cn from "classnames";
 import { ThemeSwitcher } from "./_components/theme-switcher";
+import AdSenseComponent from "./_components/adsense";
+import Script from "next/script";
+
 
 import "./globals.css";
 
@@ -56,24 +59,20 @@ export default function RootLayout({
         />
         <meta name="theme-color" content="#000" />
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4024652646199697" crossOrigin="anonymous"></script>
+        <Script
+        async
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+        strategy="afterInteractive"
+      />
       </head>
       <body
         className={cn(inter.className, "dark:bg-slate-900 dark:text-slate-400")}
       >
-          <ins className="adsbygoogle"
-            style={{display:"block"}}
-            data-ad-client="ca-pub-4024652646199697"
-            data-ad-slot="4111593915"
-            data-ad-format="auto"
-            data-full-width-responsive="true">  
-          </ins>
-          {/* <script>
-            (adsbygoogle = window.adsbygoogle || []).push({});
-          </script> */}
+           
         <ThemeSwitcher />
         <div className="min-h-screen">{children}</div>
-        <Footer />
+        <AdSenseComponent/>
+        <Footer />        
       </body>
     </html>
   );
