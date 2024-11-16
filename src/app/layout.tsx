@@ -61,7 +61,8 @@ export default function RootLayout({
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
         <Script
         async
-        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4024652646199697"
+        crossOrigin="anonymous"
         strategy="afterInteractive"
       />
       </head>
