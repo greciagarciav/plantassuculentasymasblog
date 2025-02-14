@@ -1,6 +1,5 @@
 import React from "react";
 import CookieConsent from "react-cookie-consent";
-import Link from "next/link";
 
 const CookieConsentBanner = () => {
   return (
@@ -24,7 +23,7 @@ const CookieConsentBanner = () => {
       }}
     >
       Esta página web usa cookies para mejorar tu experiencia. Al usar esta página web, das tu consentimiento para usar cookies. 
-      Más detalles sobre en <Link href="/politica-de-privacidad"><a>politica de privacidad</a></Link>.
+      Más detalles sobre en <a href="/politica-de-privacidad">politica de privacidad</a>.
     </CookieConsent>
   );
 };
