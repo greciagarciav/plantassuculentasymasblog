@@ -7,8 +7,8 @@ const CookieConsentBanner: React.FC = () => {
   return (
     <CookieConsent
       location="bottom"
-      buttonText="Accept All"
-      declineButtonText="Decline"
+      buttonText="Aceptar"
+      declineButtonText="Rechazar"
       enableDeclineButton
       cookieName="yourAppCookieConsent"
       style={{ background: "#2B373B", color: "#FFF" }}
