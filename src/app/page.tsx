@@ -24,9 +24,9 @@ export default function Index() {
           slug={heroPost.slug}
           excerpt={heroPost.excerpt}
         />
-        {morePosts.length > 0 && <MoreStories posts={morePosts} />}
-        <CookieConsentBanner />
+        {morePosts.length > 0 && <MoreStories posts={morePosts} />}        
       </Container>
+      <CookieConsentBanner />
     </main>
   );
 }
