@@ -12,13 +12,11 @@ const CookieConsentBanner = () => {
       style={{ background: "#2B373B", color: "#FFF" }}
       buttonStyle={{ backgroundColor: "#4CAF50", color: "#FFF", fontSize: "14px" }}
       declineButtonStyle={{ backgroundColor: "#f44336", color: "#FFF", fontSize: "14px" }}
-      expires={365}  // Number of days before the cookie expires
-      onAccept={() => {
-        // Add functionality when user accepts cookies
+      expires={365} 
+      onAccept={() => {        
         console.log("Cookies accepted");
       }}
-      onDecline={() => {
-        // Add functionality when user declines cookies
+      onDecline={() => {       
         console.log("Cookies declined");
       }}
     >
