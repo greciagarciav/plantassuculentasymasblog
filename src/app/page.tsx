@@ -1,4 +1,5 @@
 import Container from "@/app/_components/container";
+import CookieConsentBanner from "@/app/_components/cookie-consent-banner";
 import { HeroPost } from "@/app/_components/hero-post";
 import { Intro } from "@/app/_components/intro";
 import { MoreStories } from "@/app/_components/more-stories";
@@ -35,8 +36,9 @@ export default function Index() {
           slug={heroPost.slug}
           excerpt={heroPost.excerpt}
         />
-        {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+        {morePosts.length > 0 && <MoreStories posts={morePosts} />}        
       </Container>
+      <CookieConsentBanner />
     </main>
   );
 }
