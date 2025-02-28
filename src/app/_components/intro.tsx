@@ -14,12 +14,6 @@ export function Intro() {
           className="underline hover:text-blue-600 duration-200 transition-colors"
         >
           Youtube
-        </a> e{" "}
-        <a
-          href="https://www.instagram.com/chicasuculentas/"
-          className="underline hover:text-blue-600 duration-200 transition-colors"
-        >
-          Instagram.
         </a>
       </h4>
     </section>
