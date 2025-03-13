@@ -65,6 +65,21 @@ export default function RootLayout({
         crossOrigin="anonymous"
         strategy="afterInteractive"
       />
+       <Script
+        strategy="afterInteractive"
+        src="https://www.googletagmanager.com/gtag/js?id=G-SM6M1V2XS8"
+      />
+      <Script id="google-analytics" strategy="afterInteractive">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-SM6M1V2XS8', {
+            page_path: window.location.pathname,
+          });
+        `}
+      </Script>
       </head>
       <body
         className={cn(inter.className, "dark:bg-slate-900 dark:text-slate-400")}
