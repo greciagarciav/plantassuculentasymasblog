@@ -60,6 +60,7 @@ export default function RootLayout({
           content="/favicon/browserconfig.xml"
         />
         <meta name="theme-color" content="#000" />
+        <meta name="p:domain_verify" content="2cf8ed45080e8b5989c1307ee5d5a120"/>
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       <script
           async
