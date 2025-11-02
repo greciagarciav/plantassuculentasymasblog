@@ -6,6 +6,8 @@ import cn from "classnames";
 import { ThemeSwitcher } from "./_components/theme-switcher";
 import AdSenseComponent from "./_components/adsense";
 import Script from "next/script";
+import { SpeedInsights } from '@vercel/speed-insights/next';
+import { Analytics } from '@vercel/analytics/next';
 
 
 import "./globals.css";
@@ -59,13 +61,12 @@ export default function RootLayout({
         />
         <meta name="theme-color" content="#000" />
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
-        <Script
-        async
-        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4024652646199697"
-        crossOrigin="anonymous"
-        strategy="afterInteractive"
-      />
-       <Script
+      <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4024652646199697"
+          crossOrigin="anonymous"
+        />
+      <Script
         strategy="afterInteractive"
         src="https://www.googletagmanager.com/gtag/js?id=G-SM6M1V2XS8"
       />
@@ -88,7 +89,9 @@ export default function RootLayout({
         <ThemeSwitcher />
         <div className="min-h-screen">{children}</div>
         <AdSenseComponent/>
-        <Footer />        
+        <Footer />
+        <SpeedInsights />
+        <Analytics />      
       </body>
     </html>
   );

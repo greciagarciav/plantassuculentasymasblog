@@ -5,12 +5,12 @@ import CoverImage from "./cover-image";
 import DateFormatter from "./date-formatter";
 
 type Props = {
-  title: string;
+  title?: string;
   coverImage: string;
-  date: string;
-  excerpt: string;
-  author: Author;
-  slug: string;
+  date?: string;
+  excerpt?: string;
+  author?: Author;
+  slug?: string;
 };
 
 export function PostPreview({
@@ -23,19 +23,30 @@ export function PostPreview({
 }: Props) {
   return (
     <div>
-      <div className="mb-5">
-        <CoverImage slug={slug} title={title} src={coverImage} />
-      </div>
-      <h3 className="text-3xl mb-3 leading-snug">
+      { title && (
+        <Link href={`/posts/${slug}`} className="hover:underline">
+          <div>
+            <CoverImage slug={slug} title={title} src={coverImage} />       
+          </div>
+        </Link>
+      )} 
+      {/* <h3 className="text-3xl mb-3 leading-snug">
         <Link href={`/posts/${slug}`} className="hover:underline">
           {title}
         </Link>
-      </h3>
-      <div className="text-lg mb-4">
-        <DateFormatter dateString={date} />
-      </div>
-      <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
-      <Avatar name={author.name} picture={author.picture} />
+      </h3> */}
+      {/* { date && (
+        <div className="text-lg mb-4">
+          <DateFormatter dateString={date} />
+        </div>
+      )}       */}
+      {/* { (author && excerpt)  && (
+        <>
+          <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
+          <Avatar name={author.name} picture={author.picture} />
+        </>
+      )} */}
+      
     </div>
   );
 }
