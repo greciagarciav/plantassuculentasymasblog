@@ -51,7 +51,7 @@ export function generateMetadata({ params }: Params): Metadata {
     return notFound();
   }
 
-  const title = `${post.title}`;
+  const title = `${post.title} | Chica Suculentas`;
 
   return {
     title,
