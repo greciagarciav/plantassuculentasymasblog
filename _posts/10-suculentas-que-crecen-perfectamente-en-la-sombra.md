@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/10-suculentas-que-crecen-perfectamente-en-la-sombra/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 Las suculentas son plantas muy resistentes y de bajo mantenimiento, pero muchas personas creen que todas necesitan sol directo para sobrevivir. Sin embargo, existen variedades que prosperan en la sombra o en condiciones de poca luz. En este artículo, te presentamos 10 suculentas ideales para interiores o rincones con sombra parcial.
 

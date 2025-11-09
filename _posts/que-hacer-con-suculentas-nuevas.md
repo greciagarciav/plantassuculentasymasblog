@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/que-hacer-con-suculentas-nuevas/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 Las suculentas son plantas hermosas, resistentes y de bajo mantenimiento, ideales para principiantes y expertos en jardinería. Si acabas de adquirir suculentas nuevas, es importante darles los cuidados iniciales adecuados para que se adapten y crezcan saludables. Aquí tienes una guía paso a paso sobre qué hacer con tus suculentas recién llegadas.
 

@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/invasion-de-cochinillas-que-hacer/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 Las suculentas son plantas resistentes y fáciles de cuidar, pero pueden verse afectadas por plagas como las cochinillas. Estos pequeños insectos chupadores pueden debilitar tu planta y propagar enfermedades si no se controlan a tiempo. A continuación, te explicamos cómo identificar, prevenir y eliminar una infestación de cochinillas en tus suculentas.
 

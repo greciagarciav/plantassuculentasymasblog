@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/como-abonar-con-cascara-de-huevo/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 Las cáscaras de huevo son un recurso natural y económico que puedes utilizar para fertilizar tus suculentas. Estas contienen calcio y otros minerales que ayudan al crecimiento y fortalecimiento de las plantas. Sin embargo, es importante saber cómo preparar y aplicar este abono correctamente para que tus suculentas obtengan el máximo beneficio.
 

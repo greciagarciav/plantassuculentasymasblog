@@ -10,7 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/una-opcion-de-sustrato-para-cactus-y-suculentas/cover.webp"
 ---
-
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 Las suculentas y los cactus son plantas fascinantes y resistentes, pero requieren un sustrato adecuado para crecer sanos y fuertes. En este artículo, te enseñaremos una opción de sustrato ideal para estas plantas, que favorece el drenaje y evita la acumulación de humedad.
 

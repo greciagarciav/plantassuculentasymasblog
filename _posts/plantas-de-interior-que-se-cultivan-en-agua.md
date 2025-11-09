@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/plantas-de-interior-que-se-cultivan-en-agua/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 Las plantas de interior no solo añaden vida y frescura a tu hogar, sino que también pueden cultivarse de formas muy sencillas y prácticas. Una de las tendencias más populares es el cultivo en agua, una técnica ideal para quienes buscan evitar el uso de tierra y mantener un entorno limpio y elegante.
 

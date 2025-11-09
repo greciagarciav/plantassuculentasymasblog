@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/5-plantas-magicas-que-atraen-riqueza/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 Si deseas atraer riqueza, prosperidad y energía positiva en 2025, considera incorporar estas cinco plantas mágicas en tu hogar. Según creencias populares y enseñanzas tradicionales, estas plantas no solo embellecen tu espacio, sino que también tienen un significado especial en el mundo de la abundancia. ¡Descubre cuáles son y cómo cuidarlas para que trabajen a tu favor!
 

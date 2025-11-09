@@ -10,7 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/como-decapitar-suculentas-correctamente/cover.webp"
 ---
-
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 Las suculentas son plantas resistentes y fáciles de cuidar, pero a veces pueden crecer demasiado largas o desordenadas. La decapitación es una técnica efectiva para rejuvenecerlas, promover su crecimiento y obtener nuevas plantas. En este artículo, te enseñaremos cómo hacerlo paso a paso.
 

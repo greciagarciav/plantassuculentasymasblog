@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/logros-en-una-semana-reproducir-suculentas-en-agua/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 ¿Sabías que puedes reproducir tus suculentas en agua y empezar a ver resultados en tan solo una semana? Aunque estas plantas son conocidas por prosperar en tierra, la propagación en agua es una técnica sencilla, rápida y efectiva que te permitirá crear nuevas plantas de forma sorprendente.
 

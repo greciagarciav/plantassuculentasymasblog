@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/pasos-para-acelerar-el-crecimiento-de-suculentas-en-agua/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 ¿Sabías que puedes acelerar el crecimiento de tus suculentas propagándolas en agua? Aunque estas plantas son famosas por su resistencia al agua, este método, conocido como hidropropagación, es una excelente opción para fomentar raíces más rápidas y saludables. Sigue esta guía paso a paso para tener éxito en el proceso.
 

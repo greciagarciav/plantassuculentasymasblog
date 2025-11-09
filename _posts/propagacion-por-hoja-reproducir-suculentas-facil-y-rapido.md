@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/propagacion-por-hoja-reproducir-suculentas-facil-y-rapido/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 ¿Quieres llenar tu hogar de suculentas sin gastar mucho dinero? La propagación por hoja es una técnica sencilla, económica y altamente efectiva que te permite multiplicar tus suculentas rápidamente. En este artículo, aprenderás cómo hacerlo paso a paso y los cuidados que debes tener para obtener los mejores resultados.
 

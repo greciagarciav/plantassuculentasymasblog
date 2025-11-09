@@ -10,7 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/experimento-de-riego-con-suculentas/cover.webp"
 ---
- 
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 Las suculentas son conocidas por su resistencia y su capacidad para sobrevivir en condiciones extremas. Pero, ¿qué sucede cuando nos vamos de viaje y no podemos cuidarlas? En este artículo, compartiré mi experiencia dejando mis suculentas sin atención durante varios días y los resultados sorprendentes que obtuve.
 

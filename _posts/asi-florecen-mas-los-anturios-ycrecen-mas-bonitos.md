@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/asi-florecen-mas-los-anturios-ycrecen-mas-bonitos/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 Los anturios, también conocidos como "flores flamenco" o **Anthurium**, son plantas exóticas y elegantes que destacan por sus hojas brillantes y flores llamativas. Con los cuidados adecuados, es posible fomentar una floración abundante y un crecimiento espectacular. Aquí te explicamos cómo lograrlo.
 

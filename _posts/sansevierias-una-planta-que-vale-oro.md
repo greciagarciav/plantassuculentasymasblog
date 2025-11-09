@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/sansevierias-una-planta-que-vale-oro/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 Las sansevierias, también conocidas como "Lengua de Suegra" o **Snake Plant**, son una de las plantas de interior más valiosas y versátiles. Con su belleza única, resistencia y beneficios, esta planta es un verdadero tesoro que no puede faltar en tu hogar. Aquí te contamos por qué vale oro y cómo cuidarla para que luzca siempre espectacular.
 

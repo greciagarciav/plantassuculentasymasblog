@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/5-plantas-para-atraer-riqueza/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 El 2025 está lleno de oportunidades, y según las enseñanzas del Feng Shui y otras tradiciones culturales, ciertas plantas pueden ayudarte a atraer prosperidad, abundancia y energía positiva a tu hogar. Estas 5 plantas esenciales no solo embellecerán tus espacios, sino que también te ayudarán a canalizar vibraciones de riqueza y buena suerte. ¡Prepárate para recibir un año próspero!
 

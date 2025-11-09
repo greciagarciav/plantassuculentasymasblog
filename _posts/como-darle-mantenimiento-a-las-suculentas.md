@@ -10,7 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/como-darle-mantenimiento-a-las-suculentas/cover.webp"
 ---
- 
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 Las suculentas son plantas resistentes y de bajo mantenimiento, pero requieren ciertos cuidados para mantenerse saludables y vibrantes. Aquí te dejamos una guía práctica para su mantenimiento adecuado.
 

@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/como-eliminar-hongos-de-cualquier-planta-rapido-facil-barato/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 Los hongos son una de las amenazas más comunes para nuestras plantas. Pueden aparecer en hojas, tallos o raíces y debilitar la planta si no se tratan a tiempo. Afortunadamente, existen métodos caseros y económicos para combatirlos. ¡Aquí te explicamos cómo!
 

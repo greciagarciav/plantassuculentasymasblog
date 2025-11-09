@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/plantas-que-debes-tener-segun-tu-signo/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 Cada signo zodiacal tiene una energía particular que puede potenciarse con la ayuda de las plantas adecuadas. Ya sea para atraer prosperidad, equilibrio o protección, aquí te mostramos qué plantas son ideales para ti según tu signo del zodiaco.
 

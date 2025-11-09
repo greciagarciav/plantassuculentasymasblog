@@ -10,7 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/como-regar-suculentas-y-cactus-y-cuando-se-riegan/cover.webp"
 ---
- 
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 Las suculentas y los cactus son plantas resistentes que requieren un riego adecuado para mantenerse saludables. Un riego inadecuado puede provocar problemas como la pudrición de las raíces o un crecimiento deficiente. En este artículo, te explicamos la mejor manera de regar estas plantas y la frecuencia ideal para hacerlo.
 

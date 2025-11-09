@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/como-recuperar-suculentas-deshidratadas/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 Las suculentas son plantas resistentes, pero pueden deshidratarse si no reciben el cuidado adecuado. Si has notado que tu suculenta se ve marchita, arrugada o decolorada, no te preocupes. A continuación, te mostramos cómo recuperar una suculenta deshidratada con algunos pasos sencillos.
 

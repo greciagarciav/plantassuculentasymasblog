@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/suculentas-de-sombra-que-amaras/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 Cuando pensamos en suculentas, normalmente imaginamos plantas bajo un sol radiante. Sin embargo, existen suculentas que prosperan en condiciones de sombra o luz indirecta, ideales para interiores o lugares con poca luz. En este artículo, te presentamos las mejores suculentas de sombra que amarás tener en tu hogar.
 

@@ -10,7 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/5-plantas-protectoras-para-tu-hogar/cover.webp"
 ---
-
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 La energía de nuestro hogar influye directamente en nuestro bienestar emocional y espiritual. Muchas culturas y tradiciones han identificado plantas que no solo embellecen los espacios, sino que también protegen contra malas energías, envidias y posibles daños. Aquí te presentamos 5 plantas que, según creencias populares, pueden actuar como escudos energéticos en tu hogar. ¡Descubre cómo usarlas para proteger a tu familia!
 

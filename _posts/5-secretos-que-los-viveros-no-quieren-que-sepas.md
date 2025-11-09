@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/5-secretos-que-los-viveros-no-quieren-que-sepas/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 Los viveros son lugares fascinantes donde encontramos una gran variedad de plantas listas para llevar a casa. Sin embargo, hay ciertos secretos que no siempre nos cuentan. Si quieres aprovechar al máximo tu compra y asegurar el éxito de tus plantas, presta atención a estos 5 secretos que los viveros no quieren que sepas.
 

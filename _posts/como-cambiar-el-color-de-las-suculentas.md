@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/como-cambiar-el-color-de-las-suculentas/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 ¿Has notado que algunas suculentas tienen colores vibrantes como el rosa, rojo, púrpura o naranja? Estos tonos no solo las hacen más atractivas, sino que también reflejan cómo responden a su entorno. Cambiar el color de tus suculentas es posible con algunos ajustes en sus cuidados. Aquí te explicamos cómo lograrlo de forma sencilla y segura.
 

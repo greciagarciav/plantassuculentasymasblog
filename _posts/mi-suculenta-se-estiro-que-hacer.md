@@ -10,6 +10,8 @@ author:
 ogImage:
   url: "/assets/blog/mi-suculenta-se-estiro-que-hacer/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
+
 Si alguna vez has notado que tu suculenta parece estar "estirándose" hacia la luz, no estás solo. Este fenómeno, conocido como etiolación, es una señal de que la planta no está recibiendo suficiente luz. Aquí aprenderás qué hacer cuando tus cactus o suculentas se etiolan y cómo prevenirlo en el futuro.
 
 ---

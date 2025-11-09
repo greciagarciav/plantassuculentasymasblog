@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/treboles-en-mis-suculentas-que-hago/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 Si has notado tréboles creciendo junto a tus suculentas, no estás solo. Aunque a primera vista pueden parecer inofensivos o incluso decorativos, estos pequeños intrusos pueden competir por recursos vitales, como agua y nutrientes, afectando el crecimiento de tus plantas. Pero no te preocupes, ¡aquí te explico cómo lidiar con los tréboles en tus suculentas de manera efectiva!
 

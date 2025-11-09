@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/que-hacer-con-suculentas-etioladas/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 ¿Tu suculenta ha crecido de forma desproporcionada, con un tallo alargado y hojas separadas? Esto se conoce como **etilación**, un problema común en las suculentas que ocurre cuando no reciben suficiente luz. En este artículo te explicamos por qué sucede, cómo solucionarlo y qué hacer con una suculenta etiolada.
 

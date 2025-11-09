@@ -10,7 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/donde-colocar-tus-sansevierias-o-lengua-de-suegra/cover.webp"
 ---
-
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 La Sansevieria, también conocida como lengua de suegra, es una planta extremadamente resistente y decorativa que puede adaptarse a casi cualquier rincón de tu hogar. Sin embargo, su ubicación no solo influye en su crecimiento, sino que también tiene un significado especial según el feng shui y otros principios energéticos.
 

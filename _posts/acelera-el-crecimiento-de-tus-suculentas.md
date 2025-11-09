@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/acelera-el-crecimiento-de-tus-suculentas/cover.jpg"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 Las suculentas son famosas por su belleza, resistencia y crecimiento lento. Sin embargo, si deseas verlas crecer más rápido y lucir impresionantes en menos tiempo, ¡es posible hacerlo con algunos cuidados especiales! Aquí te comparto algunos consejos para acelerar el crecimiento de tus suculentas sin comprometer su salud.
 

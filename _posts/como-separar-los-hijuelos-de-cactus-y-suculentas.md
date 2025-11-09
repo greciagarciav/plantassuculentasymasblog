@@ -10,7 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/como-separar-los-hijuelos-de-cactus-y-suculentas/cover.webp"
 ---
- 
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 Las suculentas y los cactus son plantas fascinantes que, con los cuidados adecuados, pueden reproducirse fácilmente a través de sus hijuelos. En este artículo, te enseñaremos paso a paso cómo separar estos hijuelos sin dañar la planta madre y asegurarte de que crezcan sanos y fuertes.
 

@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/la-planta-de-tu-signo-zodiacal/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 ¿Sabías que las plantas pueden ayudarte a equilibrar tu energía según tu signo del zodiaco? Cada signo tiene características únicas que pueden armonizarse con las propiedades de ciertas plantas. Descubre cuál es la planta ideal para ti y llena tu hogar de energía positiva.
 

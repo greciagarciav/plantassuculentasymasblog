@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/tour-por-mi-mas-de-300-suculentas/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
  
 Si eres un amante de las suculentas y los cactus, este recorrido por mi colección de más de 300 ejemplares te fascinará. En este artículo, te contaré cómo he organizado mi espacio, qué especies tengo y algunos consejos sobre su cuidado.
 

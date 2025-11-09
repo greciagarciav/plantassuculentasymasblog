@@ -10,7 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/suculenta-rosario-senecio-rowleyanus/cover.webp"
 ---
-
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 La Suculenta Rosario, conocida científicamente como **Senecio rowleyanus**, es una planta única y elegante que destaca por sus hojas redondeadas en forma de cuentas. Esta suculenta colgante es ideal para decorar interiores y exteriores, añadiendo un toque moderno y fresco a cualquier espacio.
 

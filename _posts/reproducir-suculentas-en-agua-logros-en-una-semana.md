@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/reproducir-suculentas-en-agua-logros-en-una-semana/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 ¿Sabías que puedes reproducir tus suculentas en agua de forma sencilla y rápida? Este método, además de ser fascinante, te permitirá observar cómo las raíces comienzan a crecer en tan solo una semana. Aquí te explicamos paso a paso cómo lograrlo y qué cuidados debes tener para un éxito garantizado.
 

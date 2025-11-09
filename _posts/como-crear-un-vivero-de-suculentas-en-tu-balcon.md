@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/como-crear-un-vivero-de-suculentas-en-tu-balcon/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 Si tienes un balcón soleado y espacio limitado, ¡crear un vivero de suculentas puede ser la opción perfecta para ti! Las suculentas son plantas resistentes y de fácil cuidado, ideales para espacios pequeños. Con una buena organización, puedes cultivar más de 300 suculentas en un espacio reducido y disfrutar de un vivero en tu propio hogar.
 

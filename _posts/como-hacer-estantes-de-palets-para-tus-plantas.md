@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/como-hacer-estantes-de-palets-para-tus-plantas/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 ¿Quieres darle un toque rústico y encantador a tu espacio de suculentas? Hacer estantes de palets es una opción económica y creativa. A continuación, te mostramos un tutorial paso a paso para crear tus propios estantes de palets, donde tus suculentas podrán lucir increíbles.
 

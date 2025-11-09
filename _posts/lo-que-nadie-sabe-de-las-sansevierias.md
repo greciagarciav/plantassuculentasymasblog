@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/lo-que-nadie-sabe-de-las-sansevierias/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 Las sansevierias, conocidas también como lengua de suegra, son plantas populares por su resistencia y estilo decorativo. Sin embargo, detrás de su aspecto robusto se esconden secretos fascinantes y mitos que merecen ser descubiertos. En este artículo, te contamos todo lo que nadie te dice sobre estas increíbles plantas.
 

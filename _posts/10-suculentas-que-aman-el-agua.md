@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/10-suculentas-que-aman-el-agua/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
  
 Las suculentas son conocidas por su capacidad de almacenar agua en sus hojas y tallos, lo que las hace resistentes a la sequía. Sin embargo, algunas especies disfrutan de un riego más frecuente y pueden prosperar en ambientes más húmedos. A continuación, te presentamos 10 suculentas que aman el agua y que puedes cultivar con mayor hidratación.
 

@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/nunca-coloques-tu-planta-lengua-de-suegra-en-este-lugar/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 La sansevieria, popularmente conocida como "lengua de suegra," es una planta que muchos eligen para el hogar debido a su resistencia y facilidad de cuidado. Sin embargo, en el mundo del feng shui y las supersticiones, existen ciertas creencias sobre dónde colocarla para evitar atraer energía negativa, como el luto o la pobreza. ¿Es cierto que el lugar donde colocas esta planta puede afectar la energía de tu hogar?
 

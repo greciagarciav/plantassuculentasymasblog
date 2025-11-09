@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/10-cactus-colgantes-mas-hermosos-que-cambiaran-tu-vida/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 Los cactus colgantes son una opción ideal para quienes buscan agregar un toque exótico y elegante a su hogar o jardín. Estas plantas no solo son fáciles de cuidar, sino que también aportan una estética única con sus formas y colores llamativos. A continuación, te presentamos los 10 cactus colgantes más hermosos que transformarán tu espacio.
 

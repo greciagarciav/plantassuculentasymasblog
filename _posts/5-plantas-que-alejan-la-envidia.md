@@ -10,7 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/5-plantas-que-alejan-la-envidia/cover.webp"
 ---
-
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 En la filosofía budista, las plantas no solo embellecen nuestros espacios, sino que también pueden influir en la energía que nos rodea. Algunas plantas son reconocidas por atraer paz, armonía y protección contra las malas vibras, como la envidia. Si quieres purificar tu hogar y llenarlo de buena energía, ¡descubre estas 5 plantas recomendadas por las enseñanzas budistas!
 

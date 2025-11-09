@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/5-plantas-que-atraen-dinero/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 ¿Sabías que algunas plantas están asociadas con la prosperidad y la abundancia según las enseñanzas budistas? Estas plantas no solo decoran tu hogar, sino que también pueden atraer buena fortuna y mejorar la energía de tu espacio. Aprende cuáles son las cinco plantas que no pueden faltar en tu casa si deseas atraer dinero y abundancia.
 

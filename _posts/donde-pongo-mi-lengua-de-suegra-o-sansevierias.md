@@ -11,6 +11,8 @@ ogImage:
   url: "/assets/blog/donde-pongo-mi-lengua-de-suegra-o-sansevierias/cover.webp"
 
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
+
 La lengua de suegra, también conocida como Sansevieria, es una planta versátil, resistente y perfecta para decorar cualquier espacio. Sin embargo, saber dónde colocarla es clave para que crezca saludable y luzca espectacular. A continuación, te daremos todos los consejos necesarios para encontrar el lugar ideal en tu hogar o espacio de trabajo.
 
 ---

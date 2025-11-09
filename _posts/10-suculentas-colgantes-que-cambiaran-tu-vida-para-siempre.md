@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/10-suculentas-colgantes-que-cambiaran-tu-vida-para-siempre/cover.webp"
 ---
+**Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
 Las suculentas colgantes son una excelente opción para quienes buscan decorar su hogar con plantas hermosas y de bajo mantenimiento. Estas especies no solo embellecen cualquier espacio, sino que también pueden mejorar la calidad del aire y aportar armonía a tu ambiente. Aquí te presentamos 10 suculentas colgantes que transformarán tu vida.
 
