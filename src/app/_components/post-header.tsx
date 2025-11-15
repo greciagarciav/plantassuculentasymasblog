@@ -34,9 +34,9 @@ export function PostHeader({ title, coverImage, coverVideo, date, author }: Prop
         <div className="block md:hidden mb-6">
           <Avatar name={author.name} picture={author.picture} />
         </div>
-        <div className="mb-6 text-lg">
+        {/* <div className="mb-6 text-lg">
           <DateFormatter dateString={date} />
-        </div>
+        </div> */}
       </div>
     </>
   );

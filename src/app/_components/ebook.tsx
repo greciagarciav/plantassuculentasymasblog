@@ -15,20 +15,20 @@ export function Ebook({
 }: Props) {
   return (
     <section>
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-y-20 md:gap-y-32 mb-32">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-y-20 md:gap-y-10 mb-20">
         <div>
           <div className="mb-4 md:mb-0 text-lg flex justify-center">
              <Image
                   src={coverImage}
                   alt={`Cover Image for ${title}`}
                   className="hover:shadow-lg transition-shadow duration-200"
-                  width={300}
+                  width={320}
                   height={400}
                 />
           </div>
         </div>
         <div>
-          <h3 className="mb-8 text-6xl font-bold tracking-tighter leading-tight">            
+          <h3 className="mb-6 text-3xl font-bold tracking-tighter leading-tight">            
             {title}            
           </h3>
           <p className="text-lg leading-relaxed mb-10">{excerpt}</p>

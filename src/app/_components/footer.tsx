@@ -8,7 +8,7 @@ export function Footer() {
         <div className="py-10 flex flex-col lg:flex-row items-center">
           <div className="flex items-center mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
             <img src="https://yt3.googleusercontent.com/ytc/AIdro_mBMy56YKY8Wseh8dQGpDUw3OzkDPTusPyKptW5JBkAuQ=s160-c-k-c0x00ffffff-no-rj" className="w-12 h-12 rounded-full" alt="Logo de Chica Suculentas" />
-            <h1 className="text-5xl font-bold tracking-tighter leading-tight md:pl-2">
+            <h1 className="text-3xl font-bold tracking-tighter leading-tight md:pl-2">
               Chica Suculentas
             </h1>
           </div>
@@ -72,7 +72,7 @@ export function Footer() {
           </div>
         <div className="py-10 flex flex-col items-center border-t border-gray-200">
           <h3 className="text-1xl font-bold tracking-tighter leading-tight text-center mb-10 lg:mb-0">
-          © 2024 Chica Suculentas - Plantas, suculentas y más. Todos los derechos reservados.
+          © 2025 Chica Suculentas - Plantas, suculentas y más. Todos los derechos reservados.
           </h3>
           <h3 className="py-2 text-1xl font-bold tracking-tighter leading-tight text-center mb-10 lg:mb-0">
           Diseño y desarrollo web por greciagarciav

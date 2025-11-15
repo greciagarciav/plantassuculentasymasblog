@@ -71,7 +71,7 @@ export function MoreStories({ posts }: Props) {
 
   return (
     <section>
-      <h2 className={`${coverStyles.centeredText} mb-6 text-5xl md:text-7xl font-bold tracking-tighter leading-tight`}>
+      <h2 className={`${coverStyles.centeredText} mb-6 text-6xl font-bold tracking-tighter leading-tight`}>
         Consejos para cuidar todo tipo de plantas.
       </h2>
 
