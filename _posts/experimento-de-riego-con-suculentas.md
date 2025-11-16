@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/blog/experimento-de-riego-con-suculentas/cover.webp"
+relatedPosts:
+  - "que-hacer-con-suculentas-etioladas"
+  - "propagacion-por-hoja-reproducir-suculentas-facil-y-rapido"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 

@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/blog/plantas-que-debes-tener-segun-tu-signo/cover.webp"
+relatedPosts:
+  - "tour-por-mi-mas-de-300-suculentas"
+  - "suculentas-de-sombra-que-amaras"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 

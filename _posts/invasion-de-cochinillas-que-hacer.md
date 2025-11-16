@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/blog/invasion-de-cochinillas-que-hacer/cover.webp"
+relatedPosts:
+  - "nunca-coloques-tu-planta-lengua-de-suegra-en-este-lugar"
+  - "plantas-de-interior-que-se-cultivan-en-agua"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 

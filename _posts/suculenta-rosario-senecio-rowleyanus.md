@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/blog/suculenta-rosario-senecio-rowleyanus/cover.webp"
+relatedPosts:
+  - "la-planta-de-tu-signo-zodiacal"
+  - "invasion-de-cochinillas-que-hacer"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 

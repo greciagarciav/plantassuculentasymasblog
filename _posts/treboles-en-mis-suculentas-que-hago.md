@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/blog/treboles-en-mis-suculentas-que-hago/cover.webp"
+relatedPosts:
+  - "5-plantas-magicas-que-atraen-riqueza"
+  - "asi-florecen-mas-los-anturios-ycrecen-mas-bonitos"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 

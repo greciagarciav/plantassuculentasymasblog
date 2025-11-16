@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/que-hacer-con-suculentas-etioladas/cover.webp"
+relatedPosts:
+  - "invasion-de-cochinillas-que-hacer"
+  - "como-recuperar-suculentas-deshidratadas"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 

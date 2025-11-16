@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/blog/plantas-de-interior-que-se-cultivan-en-agua/cover.webp"
+relatedPosts:
+  - "una-opcion-de-sustrato-para-cactus-y-suculentas"
+  - "treboles-en-mis-suculentas-que-hago"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 

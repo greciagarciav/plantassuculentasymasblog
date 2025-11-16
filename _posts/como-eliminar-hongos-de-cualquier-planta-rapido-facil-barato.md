@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/blog/como-eliminar-hongos-de-cualquier-planta-rapido-facil-barato/cover.webp"
+relatedPosts:
+  - "reproducir-suculentas-en-agua-logros-en-una-semana"
+  - "una-opcion-de-sustrato-para-cactus-y-suculentas"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 

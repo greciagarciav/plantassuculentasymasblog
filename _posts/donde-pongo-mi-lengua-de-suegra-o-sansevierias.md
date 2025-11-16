@@ -9,7 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/blog/donde-pongo-mi-lengua-de-suegra-o-sansevierias/cover.webp"
-
+relatedPosts:
+  - "nunca-coloques-tu-planta-lengua-de-suegra-en-este-lugar"
+  - "plantas-que-debes-tener-segun-tu-signo"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 

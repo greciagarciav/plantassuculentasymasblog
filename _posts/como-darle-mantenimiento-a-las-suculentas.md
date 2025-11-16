@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/blog/como-darle-mantenimiento-a-las-suculentas/cover.webp"
+relatedPosts:
+  - "como-crear-un-vivero-de-suculentas-en-tu-balcon"
+  - "acelera-el-crecimiento-de-tus-suculentas"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 

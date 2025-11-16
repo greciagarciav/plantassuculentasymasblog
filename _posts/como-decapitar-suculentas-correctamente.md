@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/blog/como-decapitar-suculentas-correctamente/cover.webp"
+relatedPosts:
+  - "invasion-de-cochinillas-que-hacer"
+  - "que-hacer-con-suculentas-etioladas"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 

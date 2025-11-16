@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/blog/pasos-para-acelerar-el-crecimiento-de-suculentas-en-agua/cover.webp"
+relatedPosts:
+  - "la-planta-de-tu-signo-zodiacal"
+  - "suculenta-rosario-senecio-rowleyanus"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 

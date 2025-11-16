@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/blog/reproducir-suculentas-en-agua-logros-en-una-semana/cover.webp"
+relatedPosts:
+  - "donde-colocar-tus-sansevierias-o-lengua-de-suegra"
+  - "invasion-de-cochinillas-que-hacer"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 

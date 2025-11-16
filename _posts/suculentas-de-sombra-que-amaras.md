@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/suculentas-de-sombra-que-amaras/cover.webp"
+relatedPosts:
+  - "mi-suculenta-se-estiro-que-hacer"
+  - "propagacion-por-hoja-reproducir-suculentas-facil-y-rapido"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 

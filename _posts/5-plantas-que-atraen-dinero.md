@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/blog/5-plantas-que-atraen-dinero/cover.webp"
+relatedPosts:
+  - "5-plantas-magicas-que-atraen-riqueza"
+  - "5-plantas-que-atraen-dinero"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 

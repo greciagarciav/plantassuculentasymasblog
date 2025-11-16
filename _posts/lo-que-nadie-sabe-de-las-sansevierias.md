@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/blog/lo-que-nadie-sabe-de-las-sansevierias/cover.webp"
+relatedPosts:
+  - "nunca-coloques-tu-planta-lengua-de-suegra-en-este-lugar"
+  - "sansevierias-una-planta-que-vale-oro"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 

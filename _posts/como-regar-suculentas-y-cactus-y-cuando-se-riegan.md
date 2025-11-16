@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/blog/como-regar-suculentas-y-cactus-y-cuando-se-riegan/cover.webp"
+relatedPosts:
+  - "logros-en-una-semana-reproducir-suculentas-en-agua"
+  - "la-planta-de-tu-signo-zodiacal"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 

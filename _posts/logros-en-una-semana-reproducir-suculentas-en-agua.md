@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/blog/logros-en-una-semana-reproducir-suculentas-en-agua/cover.webp"
+relatedPosts:
+  - "que-hacer-con-suculentas-nuevas"
+  - "reproducir-suculentas-en-agua-logros-en-una-semana"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 

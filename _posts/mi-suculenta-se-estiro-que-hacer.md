@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/blog/mi-suculenta-se-estiro-que-hacer/cover.webp"
+relatedPosts:
+  - "pasos-para-acelerar-el-crecimiento-de-suculentas-en-agua"
+  - "que-hacer-con-suculentas-etioladas"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 

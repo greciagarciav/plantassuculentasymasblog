@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/blog/sansevierias-una-planta-que-vale-oro/cover.webp"
+relatedPosts:
+  - "como-regar-suculentas-y-cactus-y-cuando-se-riegan"
+  - "plantas-de-interior-que-se-cultivan-en-agua"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 

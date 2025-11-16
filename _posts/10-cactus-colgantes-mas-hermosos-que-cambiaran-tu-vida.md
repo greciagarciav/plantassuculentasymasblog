@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/blog/10-cactus-colgantes-mas-hermosos-que-cambiaran-tu-vida/cover.webp"
+relatedPosts:
+  - "10-suculentas-colgantes-que-cambiaran-tu-vida-para-siempre"
+  - "10-suculentas-que-crecen-perfectamente-en-la-sombra"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 

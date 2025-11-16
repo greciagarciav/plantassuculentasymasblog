@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/blog/que-hacer-con-suculentas-nuevas/cover.webp"
+relatedPosts:
+  - "lo-que-nadie-sabe-de-las-sansevierias"
+  - "como-darle-mantenimiento-a-las-suculentas"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 

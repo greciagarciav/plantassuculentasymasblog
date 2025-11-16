@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/blog/como-recuperar-suculentas-deshidratadas/cover.webp"
+relatedPosts:
+  - "como-crear-un-vivero-de-suculentas-en-tu-balcon"
+  - "como-abonar-con-cascara-de-huevo"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 

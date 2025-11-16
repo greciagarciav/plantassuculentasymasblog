@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/blog/como-separar-los-hijuelos-de-cactus-y-suculentas/cover.webp"
+relatedPosts:
+  - "experimento-de-riego-con-suculentas"
+  - "invasion-de-cochinillas-que-hacer"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 

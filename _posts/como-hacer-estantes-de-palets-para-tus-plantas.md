@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/blog/como-hacer-estantes-de-palets-para-tus-plantas/cover.webp"
+relatedPosts:
+  - "que-hacer-con-suculentas-etioladas"
+  - "suculenta-rosario-senecio-rowleyanus"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 

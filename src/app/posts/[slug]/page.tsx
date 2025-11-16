@@ -30,6 +30,7 @@ export default async function Post({ params }: Params) {
             coverVideo={post.coverVideo}
             date={post.date}
             author={post.author}
+            relatedPosts={post.relatedPosts}
           />
           <PostBody content={content} />
         </article>

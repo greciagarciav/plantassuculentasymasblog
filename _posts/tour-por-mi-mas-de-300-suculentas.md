@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/blog/tour-por-mi-mas-de-300-suculentas/cover.webp"
+relatedPosts:
+  - "10-cactus-colgantes-mas-hermosos-que-cambiaran-tu-vida"
+  - "5-plantas-para-atraer-riqueza"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
  

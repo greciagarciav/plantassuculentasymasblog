@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/blog/asi-florecen-mas-los-anturios-ycrecen-mas-bonitos/cover.webp"
+relatedPosts:
+  - "como-abonar-con-cascara-de-huevo"
+  - "como-recuperar-suculentas-deshidratadas"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 

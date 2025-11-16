@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/blog/como-cambiar-el-color-de-las-suculentas/cover.webp"
+relatedPosts:
+  - "como-darle-mantenimiento-a-las-suculentas"
+  - "como-recuperar-suculentas-deshidratadas"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 

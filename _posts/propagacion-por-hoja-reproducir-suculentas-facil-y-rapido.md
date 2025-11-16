@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/blog/propagacion-por-hoja-reproducir-suculentas-facil-y-rapido/cover.webp"
+relatedPosts:
+  - "plantas-de-interior-que-se-cultivan-en-agua"
+  - "que-hacer-con-suculentas-nuevas"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 

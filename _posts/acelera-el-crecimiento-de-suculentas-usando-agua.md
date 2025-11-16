@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/ChS.png"
 ogImage:
   url: "/assets/blog/acelera-el-crecimiento-de-suculentas-usando-agua/cover.webp"
+relatedPosts:
+  - "acelera-el-crecimiento-de-tus-suculentas"
+  - "mi-suculenta-se-estiro-que-hacer"
 ---
 **Nota**: Este artículo es información adicional del video de mi canal de youtube. Que lo disfrutes!
 
